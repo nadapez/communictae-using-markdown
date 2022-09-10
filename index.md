@@ -4,10 +4,6 @@
  ```
  #define private public
  ```
-- [x] Love alma
-- [x] Love alma
-- [x] Love alma
-
 Duis malesuada quis urna sed congue. Nulla facilisi. In hac habitasse platea dictumst. Aliquam et cursus lacus. Aenean imperdiet ac massa sed dapibus. Proin luctus ipsum dui, eu vehicula tortor elementum et. Ut tempor imperdiet purus sed ullamcorper. Nunc consectetur, ipsum in iaculis bibendum, augue eros tincidunt lorem, vitae tempus ex neque at eros. 
 
 ## H2 Header
